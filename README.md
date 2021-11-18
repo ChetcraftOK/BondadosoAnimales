@@ -67,6 +67,14 @@ BondadosoAnimales
 		    tortuga
 	    </h2>
 	    <img src="https://w1.pngwing.com/pngs/821/541/png-transparent-sea-turtle-green-sea-turtle-cartoon-drawing-turtle-shell-reptile-tortoise.png"width=250px  >
+	    <h2>
+		  rana
+	    </h2>
+	    <img src="https://image.freepik.com/vector-gratis/estilo-dibujos-animados-rana_119631-177.jpg"width=250px  >
+	    <h2
+		orca
+		</h2>
+	    <img src=""width=250px  >
 			Casa
 		</h2>
 		<img src="https://image.freepik.com/vector-gratis/dibujo-casa-aislada_23-2147502091.jpg"width=250  >
