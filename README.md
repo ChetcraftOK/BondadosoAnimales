@@ -13,43 +13,43 @@ BondadosoAnimales
 		<h2>
 			Vaca
 		</h2>
-		<img src="https://noticiarmoz.com/wp-content/uploads/2021/06/VACA-1.jpg" width=200x >
+		<img src="https://noticiarmoz.com/wp-content/uploads/2021/06/VACA-1.jpg" width=400x >
 		<h2>
 		Cerdito
 		 </h2>
-    <img src="https://canalchupete.com/wp-content/uploads/2017/08/cerdo.png" width=150px >
+    <img src="https://canalchupete.com/wp-content/uploads/2017/08/cerdo.png" width=300px >
     <h2>
 			Oveja
 		</h2>
-		<img src="https://i.pinimg.com/474x/9c/be/f2/9cbef2fa66a7342f2aad13147d9db524--doodles.jpg"  >
+		<img src="https://i.pinimg.com/474x/9c/be/f2/9cbef2fa66a7342f2aad13147d9db524--doodles.jpg"width¿1500px  >
 		<h2>
 			Caballo
 		</h2>
-		<img src="https://ca-times.brightspotcdn.com/dims4/default/83ebed1/2147483647/strip/true/crop/1434x1024+0+0/resize/1434x1024!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F50%2F74%2Fbb5fa67f4759b9528247f0d3ac45%2Fscreen-shot-2020-11-13-at-5.35.31%20PM.png"width=200px >
+		<img src="https://ca-times.brightspotcdn.com/dims4/default/83ebed1/2147483647/strip/true/crop/1434x1024+0+0/resize/1434x1024!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F50%2F74%2Fbb5fa67f4759b9528247f0d3ac45%2Fscreen-shot-2020-11-13-at-5.35.31%20PM.png"width=400px >
     <h2>
 			Rhinoceronte
 		</h2>
-    <img src="https://www.eltiempo.com/files/image_640_428/uploads/2021/01/15/6001f895eab79.jpeg"width=200px >
+    <img src="https://www.eltiempo.com/files/image_640_428/uploads/2021/01/15/6001f895eab79.jpeg"width=400px >
 		<h2>
 			Leon
 		</h2>
-    <img src="https://www.lavanguardia.com/files/og_thumbnail/uploads/2021/08/17/611bab3d43258.jpeg"width=200px  >
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2BoPbgjfJ-rDWxM6NVDlp0jq__rio73wurg&usqp=CAU"width=400px  >
 		<h2>
 			Mono
 		</h2>
-    <img src="https://w7.pngwing.com/pngs/294/812/png-transparent-monkey-cartoon-drawing-illustration-happy-little-monkey-brown-and-beige-monkey-sticker-comics-mammal-cat-like-mammal.png" width=200px >
+    <img src="https://w7.pngwing.com/pngs/294/812/png-transparent-monkey-cartoon-drawing-illustration-happy-little-monkey-brown-and-beige-monkey-sticker-comics-mammal-cat-like-mammal.png" width=300px >
 	  <h2>
                         Delfin
 	  </h2>	  
-	<img src="https://media.ultimahora.com/p/836d5b9976ae06b961b6a6dcd00bc4eb/adjuntos/161/imagenes/010/803/0010803431/winter-delfin-discapacidadjpg.jpg" width=250 >		
+	<img src="https://media.ultimahora.com/p/836d5b9976ae06b961b6a6dcd00bc4eb/adjuntos/161/imagenes/010/803/0010803431/winter-delfin-discapacidadjpg.jpg" width=400 >		
     <h2>
 			Tiburom
 		</h2>                 
-<img src="https://previews.123rf.com/images/jihane123/jihane1231307/jihane123130700117/21315994-dibujos-animados-shark-para-dise%C3%B1ar.jpg"width=250 >
+<img src="https://previews.123rf.com/images/jihane123/jihane1231307/jihane123130700117/21315994-dibujos-animados-shark-para-dise%C3%B1ar.jpg"width=400 >
 	   <h2>
 			 Elefante
 		</h2>
-		<img src="https://cdn5.dibujos.net/dibujos/pintados/202023/elefante-bebe-animales-la-selva-11816193.jpg"width=300px  >
+		<img src="https://cdn5.dibujos.net/dibujos/pintados/202023/elefante-bebe-animales-la-selva-11816193.jpg"width=400px  >
     <h2>
 			Lobo
 		</h2>
@@ -70,11 +70,12 @@ BondadosoAnimales
 	    <h2>
 		  rana
 	    </h2>
-	    <img src="https://image.freepik.com/vector-gratis/estilo-dibujos-animados-rana_119631-177.jpg"width=250px  >
-	    <h2
-		orca
-		</h2>
-	    <img src=""width=250px  >
+	    <img src="https://image.freepik.com/vector-gratis/estilo-dibujos-animados-rana_119631-177.jpg"width=250px >
+	    <h2>
+		    cabra
+	    </h2>
+	    <img src="https://us.123rf.com/450wm/yod67/yod671702/yod67170200007/71984816-imagen-de-una-cabra-marr%C3%B3n-en-el-fondo-blanco-animales-de-granja-.jpg?ver=6"  >
+	        <h2>
 			Casa
 		</h2>
 		<img src="https://image.freepik.com/vector-gratis/dibujo-casa-aislada_23-2147502091.jpg"width=250  >
